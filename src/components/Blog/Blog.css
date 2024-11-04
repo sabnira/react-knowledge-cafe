@@ -1,0 +1,9 @@
+.blog-container{
+    margin-bottom: 80px;
+}
+
+.blog-container .cover-img{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
